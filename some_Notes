@@ -1,0 +1,23 @@
+azimuth: nort: 0 a east: 90
+elevation (altitude) : degrees above the horizon
+Righ ascension: hours (degrees)
+Declination: degrees
+
+-----------**----------***--------***-----
+
+*Equatorial*
+ra — right ascension
+dec — declination
+epoch — epoch of the coordinate
+
+*Ecliptic*
+lon — ecliptic longitude (+E)
+lat — ecliptic latitude (+N)
+epoch — epoch of the coordinate
+
+*Galactic*
+lon — galactic longitude (+E)
+lat — galactic latitude (+N)
+epoch — epoch of the coordinate
+
+-----------**---------***----------***----
