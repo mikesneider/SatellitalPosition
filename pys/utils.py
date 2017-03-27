@@ -2,7 +2,7 @@
 #For Mike Puentes - Universidad Industrial de Santander
 #Now I need to know the near 
 
-__author__ = 'mikesneider'
+__author__ = 'mikesneider@gmail.com'
 import os, sys, time, datetime, re, gpstk
 from ftplib import FTP
 import pandas as pd
